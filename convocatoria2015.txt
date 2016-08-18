@@ -1,0 +1,50 @@
+===============================================================================
+Jakatón: Convocatoria abierta para estudiantes
+===============================================================================
+Primer hackatón de Procesamiento  de Lenguaje Natural en México 
+
+29 y 30 de abril de 2015
+Ciudad de México, México
+http://golem.iimas.unam.mx/jakaton/
+
+Fecha final para convocatoria: 1o de marzo, 2015 ** Extensión 8 de marzo **
+-------------------------------------------------------------------------------
+
+El Jakatón es un espacio para que entusiastas del lenguaje y la computación se 
+junten a construir una solución a problemas que involucren el tratamiento del 
+lenguaje.
+
+Esta edición está orientado a estudiantes del área y gira alrededor del 
+análisis de tweets originados en México. El objetivo es usar en conjunto los 
+tweets, más herramientas de PLN, lingüística computacional y elementos de 
+programación para producir un primer sistema que aborde algún de los retos que 
+hemos identificado. La dinámica es juntarnos dos días en el mes abril para 
+formar equipos de trabajo y proponer una solución a algunos de estos retos.
+
+Para poder participar tendrás que ser un estudiante registrado en algún 
+programa y además llenar una solicitud que será evaluada por el comité. En esta 
+ocasión solo hay espacio para diez participantes, pero si no quedas 
+seleccionado no dejes de seguirnos en twitter y facebook porque seguimos 
+trabajando y pronto tendremos noticias para ti.
+
+Para participar en la convocatoria llena la siguiente forma:
+
+http://goo.gl/forms/ARs7QgmTAv
+
+En esta ocasión podremos financiar gastos de transporte, hospedaje y comida, en 
+la ciudad de México.
+
+--------------------------------
+Fechas importantes
+
+*** Fecha final para convocatoria: 2o de marzo, 2015 (Extensión 8 de marzo)
+*** Notificación de aceptación: 11 de marzo, 2015 (Extensión 12 de marzo)
+*** Evento: 29 y 30 de abril, 2015
+
+--------------------------------
+Sitios de interés
+
+Página principal: http://golem.iimas.unam.mx/jakaton/
+Convocatoria: http://golem.iimas.unam.mx/jakaton/convocatoria.txt
+Twitter: https://twitter.com/jakatonpln
+Facebook: https://www.facebook.com/jakatonpln
